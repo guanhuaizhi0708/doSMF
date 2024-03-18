@@ -1,0 +1,22 @@
+{
+  "name": "dosmf",
+  "version": "1.0.0",
+  "description": "'做点有趣的玩意'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanhuaizhi0708/doSMF.git"
+  },
+  "keywords": [
+    "do"
+  ],
+  "author": "ghz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guanhuaizhi0708/doSMF/issues"
+  },
+  "homepage": "https://github.com/guanhuaizhi0708/doSMF#readme"
+}
