@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/guanhuaizhi0708/doSMF/issues"
   },
-  "homepage": "https://github.com/guanhuaizhi0708/doSMF#readme"
+  "homepage": "https://github.com/guanhuaizhi0708/doSMF#readme",
+  "dependencies": {
+    "g_npm_lazy": "1.0.0"
+  },
 }
